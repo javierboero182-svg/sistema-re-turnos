@@ -3,13 +3,13 @@ Descripción
 
 Este proyecto consiste en una página inicial para presentar un Sistema de Turnos.
 
-La página permite mostrar información básica sobre el sistema y explicar algunas de las funciones que podría ofrecer, como solicitar, consultar y cancelar turnos.
+La página muestra información básica sobre el sistema y algunas de las funciones que podría ofrecer, como solicitar, consultar y cancelar turnos.
 
 Tecnologías utilizadas
 
 HTML5
 
-No se utiliza CSS ni JavaScript, ya que el objetivo del proyecto es practicar la estructura y las etiquetas básicas de HTML.
+Este proyecto no utiliza CSS ni JavaScript.
 
 Estructura del proyecto
 sistema-de-turnos/
@@ -19,29 +19,27 @@ sistema-de-turnos/
 
 Etiquetas HTML utilizadas
 
-En este proyecto se practican diferentes etiquetas HTML:
+<header> — Cabecera de la página.
 
-<header>: contiene la cabecera de la página.
+<main> — Contenido principal.
 
-<main>: contiene el contenido principal.
+<section> — Divide el contenido en secciones.
 
-<section>: divide el contenido en diferentes secciones.
+<h1> — Título principal.
 
-<h1>: título principal.
+<h2> — Títulos secundarios.
 
-<h2>: títulos secundarios.
+<p> — Párrafos.
 
-<p>: párrafos.
+<ul> — Lista sin ordenar.
 
-<ul>: lista de elementos.
+<li> — Elementos de una lista.
 
-<li>: elementos de una lista.
-
-<footer>: pie de página.
+<footer> — Pie de página.
 
 Objetivo
 
-El objetivo principal es aprender a crear una página web utilizando HTML semántico, organizando correctamente su contenido antes de agregar estilos o funcionalidades.
+El objetivo de este proyecto es practicar la estructura básica de HTML5 y aprender a organizar el contenido utilizando etiquetas semánticas.
 
 Próximos pasos
 
@@ -51,13 +49,13 @@ Un formulario para solicitar turnos.
 
 Selección de fecha y horario.
 
-Información de los servicios disponibles.
+Información sobre los servicios.
 
 CSS para mejorar el diseño.
 
 JavaScript para agregar funcionalidades.
 
-Un sistema de almacenamiento de turnos.
+Un sistema para guardar los turnos.
 
 Autor
 
