@@ -1,4 +1,4 @@
-# sistema-re-tSistema de Turnos
+Sistema de Turnos
 Descripción
 
 Este proyecto consiste en una página inicial para presentar un Sistema de Turnos.
@@ -61,4 +61,4 @@ Un sistema de almacenamiento de turnos.
 
 Autor
 
-Proyecto realizado como práctica de aprendizaje de desarrollo web.urnos
+Proyecto realizado como práctica de aprendizaje de desarrollo web.
